@@ -1,6 +1,6 @@
 ## Perfil de Carlos Cabral Neto 🎮
 
- ### Seja bem-vindo ao meu perfil!
+ ### Seja bem-vindo ao meu pequeno espaço pessoal de programador!
  ### Esse GitHub foi feito para armazenar meus projetos pessoais de estudo e trabalhos universitários 
 
  <div>
